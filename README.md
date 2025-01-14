@@ -1,7 +1,7 @@
 # Hi there, I’m Paulo! 👋
 
 I´m a software engineer specialized in DevOps 
-I'll be adding latter on my profile here.. but go ahead and look my linkedin profile
+I'll be adding later on my profile here.. but go ahead and look my linkedin profile
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pauloguevara/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/pauloguevara)](https://twitter.com/pauloguevara)
